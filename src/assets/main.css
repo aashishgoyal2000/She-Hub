@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+
+body {
+  margin: 0;
+  background-color: #f5f5f5;
+}
+
+.order-one {
+  order: 1;
+}
+
+.ibm-plex-sans {
+  font-family: ibm-plex-sans, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #323550;
+}
+
+.heading-text {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+  letter-spacing: 0.0125em;
+  color: #323550;
+}
+
+.teal-pastel-background {
+  background: #dff8f8;
+}
+
+.yellow-pastel-background {
+  background: #ffffed;
+}
+
+.dark-theme-background {
+  background: #323550 !important;
+}
+
+.white-text-color {
+  color: white !important;
+}
+
+.font-20 {
+  font-size: 20px;
+}
+
+.text-sh1 {
+  color: #323550 !important;
+}
+.bg-sh1 {
+  background: #323550 !important;
+}
+
+.text-sh2 {
+  color: #EED2E6 !important;
+}
+.bg-sh2 {
+  background: #EED2E6 !important;
+}
+
+.q-date__event {
+  left: 44% !important;
+  height: 35px !important;
+  width: 9px !important;
+  background-color: transparent !important;
+}
+
+.bg-spot::after {
+  /* content: "\2762"; */
+  content: "\01F762";
+  color: #880808;
+}
+
+.bg-heart::after {
+  content: "\2764";
+  color: #EA171E;
+}
+
